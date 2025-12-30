@@ -1,6 +1,6 @@
 # Basic Arithmetic Operations in Python
 
-## 📌 Description
+## Description
 This Python program takes **two numbers as input from the user** and performs the following basic arithmetic operations:
 
 - Addition
@@ -10,7 +10,7 @@ This Python program takes **two numbers as input from the user** and performs th
 
 The results of each operation are then displayed on the screen.
 
-## 🧮 Operations Performed
+## Operations Performed
 Given two numbers:
 - **Addition** → `first_number + second_number`
 - **Subtraction** → `first_number - second_number`
@@ -19,7 +19,7 @@ Given two numbers:
 
 ---
 
-## ▶️ How the Program Works
+## How the Program Works
 1. The user is prompted to enter the **first number**.
 2. The user is prompted to enter the **second number**.
 3. The program calculates:
