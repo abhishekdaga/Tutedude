@@ -15,10 +15,10 @@ difference = first_number - second_number
 product = first_number * second_number
 
 # for division
-division = first_number / second_number
+quotient = first_number / second_number
 
 print("Addition:", sum)
 print("Subtraction:", difference)
 print("Product:", product)
-print("Division:", division)
+print("Division:", quotient)
 
